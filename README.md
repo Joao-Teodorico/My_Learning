@@ -1,0 +1,2 @@
+Olá! Este repositório no Git reúne alguns apanhados e anotações de diversos cursos e livros que estou estudando no momento. Não leve este material tão a sério em relação à lógica de programação ou às melhores práticas 
+(embora eu vou fazer o meu melhor para manter tudo organizado e compreensível). O principal objetivo deste repositório é servir como um guia de estudos para mim e para qualquer pessoa que queira utilizá-lo no futuro para estudar, revisar ou consultar os conteúdos.
