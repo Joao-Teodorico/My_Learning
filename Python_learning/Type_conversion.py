@@ -7,3 +7,10 @@ print(float('1') + 1)
 #Returns True because any non-empty string is truthy.      
 print(bool(' '))   
 print(bool(''))   
+
+#Calculanting BMI
+name = 'Hal Jordan'
+high = 1.78
+weight = 80
+bmi = weight / (high ** 2)
+print(f'BMI of {name} is {bmi:.2f}')
