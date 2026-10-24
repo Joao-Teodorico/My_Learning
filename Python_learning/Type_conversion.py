@@ -14,3 +14,8 @@ high = 1.78
 weight = 80
 bmi = weight / (high ** 2)
 print(f'BMI of {name} is {bmi:.2f}')
+
+show_hihg = f'Height of {name} is {high:.2f}'
+show_weight = f'Weight of {name} is {weight:.2f}'
+print(show_hihg)
+print(show_weight)
