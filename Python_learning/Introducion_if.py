@@ -1,4 +1,4 @@
-if /elif / else
+# if /elif / else
 age = input ("Are you over 18? ")
 
 if age == "yes" :
